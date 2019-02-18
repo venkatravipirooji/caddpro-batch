@@ -3,4 +3,4 @@ hi git
 how are you
 
 not done retry
->>>>>>> amendnoedit
+
