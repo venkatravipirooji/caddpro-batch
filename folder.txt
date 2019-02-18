@@ -1,1 +1,2 @@
 both the changes should be commited
+ready to stage
