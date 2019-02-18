@@ -1,4 +1,8 @@
 hi git
+<<<<<<< HEAD
 how are you
 both coomits must be at one shot
 >>>>>>> amendchanges
+=======
+how are you
+>>>>>>> 100b16560814e3e2f809a54c3601c0bdde71c279
