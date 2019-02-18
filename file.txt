@@ -1,2 +1,4 @@
 hi git
 how are you
+both coomits must be at one shot
+>>>>>>> amendchanges
